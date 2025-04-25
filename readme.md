@@ -1,4 +1,7 @@
-Cody: # Cody Chat Shell
+## Screenshot
+
+![Cody Chat Shell Screenshot](./Screenshot%202025-04-25%20at%205.13.03%20PM.png)
+*Cody Chat Shell in action*
 
 ## Overview
 
